@@ -173,6 +173,7 @@ span{
     padding: 10px 30px;
     margin-top: 20px;
     font-weight: 700;
+    margin-bottom: 28px;
 }
 
 .signup, .desc{
@@ -185,11 +186,14 @@ span{
 
 .signup, .signup-link{
     font-size: x-large;
+    margin: 0;
 }
 
 .desc{
     font-size: large;
+    margin-top: 32px;
 }
-.signup{
-    margin: 10px;
+
+.welcome{
+    font-weight: 500;
 }
